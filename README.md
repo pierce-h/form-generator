@@ -53,3 +53,8 @@ To run the tests for actions and reducers
 ```
   npm run test
 ```
+
+## Screenshots
+<img width="661" alt="screen shot 2017-07-09 at 3 58 28 pm" src="https://user-images.githubusercontent.com/3177052/27994114-895b3e02-64bf-11e7-8012-a92c7823f143.png">
+
+<img width="710" alt="screen shot 2017-07-09 at 3 58 43 pm" src="https://user-images.githubusercontent.com/3177052/27994113-895addfe-64bf-11e7-8f1d-86c526344ebb.png">
